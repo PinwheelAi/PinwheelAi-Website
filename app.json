@@ -1,7 +1,7 @@
 {
-  "name": "Node.js Sample",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-sample",
+  "name": "Pinwheel.ai Website",
+  "description": "Pinwheel.ai website focuses on Artificial Intelligence, Self-Driving Cars, Digital Assitance, Alexa, Siri",
+  "repository": "https://github.com/PinwheelAi/PinwheelAi-Website",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
-  "keywords": ["node", "express", "static"]
+  "keywords": ["node", "express", "static", "mapbox","A.I","Self-Driving Cars","Alexa"]
 }

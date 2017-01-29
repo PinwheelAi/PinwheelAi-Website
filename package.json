@@ -1,7 +1,7 @@
 {
-  "name": "node-js-sample",
-  "version": "0.2.0",
-  "description": "A sample Node.js app using Express 4",
+  "name": "Pinwheel.ai",
+  "version": "0.0.1",
+  "description": "Website and personal blog",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -22,9 +22,9 @@
     "heroku",
     "express"
   ],
-  "author": "Mark Pundsack",
+  "author": "Karthik Sankar",
   "contributors": [
-    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
+    "Karthik Sankar"
   ],
   "license": "MIT"
 }
